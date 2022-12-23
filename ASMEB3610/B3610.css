@@ -1,0 +1,43 @@
+div {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+ 
+  width:100vw;
+  height: fit-content;
+
+}
+
+#div0 {
+ 
+  height: 100vh;
+  background-color: rgb(6, 28, 46);
+  
+
+}
+
+select{
+color: rgb(240, 198, 198);
+width: fit-content;
+height: fit-content;
+background-color: rgb(16, 17, 10);
+font-size: 18px;
+
+
+}
+
+table , tr,td{
+  border: 0.5px solid rgb(93, 94, 78);
+  border-radius: 5px;
+  border-collapse: collapse;
+
+  width: fit-content;
+}
+
+#a{
+  
+  width: 0px;
+  height: 0px;
+}
+
+
+
